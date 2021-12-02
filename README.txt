@@ -2,8 +2,6 @@
 
 This Is The first file In this Repo.
 
-##Ipsum Below
+##WebSite Contents
 
-adfghjk
-asdfg
-asdfg
+1. index.html
